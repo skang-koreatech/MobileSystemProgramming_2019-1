@@ -12,7 +12,8 @@ Repository for example codes used in the Mobile System Programming class
 - JDK: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 - Android Studio: https://developer.android.com/studio/index.html
 - Git: https://git-scm.com/
-- SourceTree (Git GUI Client): https://www.sourcetreeapp.com/
+- GitHub Desktop (Git Client): https://desktop.github.com/
+- SourceTree (Git Client): https://www.sourcetreeapp.com/
 - github: https://github.com/
 
 ### Resources
